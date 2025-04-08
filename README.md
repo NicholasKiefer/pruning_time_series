@@ -1,5 +1,7 @@
 # Pruning Time Series Transformer
 
+This code implements the experiments for the paper [A Comparative Study of Pruning Methods in Transformer-based Time Series Forecasting](https://arxiv.org/abs/2412.12883).
+
 ## Data
 
 Get the data from Informer and Autoformer. 
